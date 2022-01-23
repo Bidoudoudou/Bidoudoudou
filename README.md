@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bidoudoudou
-- 👀 I’m interested in  la sécurité informatique
-- 🌱 I’m currently learning  l'informatique  (licence info)
+- 👀 I’m interested in  la computer security
+- 🌱 I’m currently learning  computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
